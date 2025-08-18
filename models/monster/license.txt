@@ -1,0 +1,11 @@
+Model Information:
+* title:	Death Forest - UMA
+* source:	https://sketchfab.com/3d-models/death-forest-uma-e898760c2f8e47deb517f444fe530636
+* author:	dvrager (https://sketchfab.com/dvrager)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Death Forest - UMA" (https://sketchfab.com/3d-models/death-forest-uma-e898760c2f8e47deb517f444fe530636) by dvrager (https://sketchfab.com/dvrager) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
