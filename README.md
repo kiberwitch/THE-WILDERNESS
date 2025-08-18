@@ -1,5 +1,5 @@
 
-Ссылка на игру: https://github.com/kiberwitch/game/edit/gh-pages
+Ссылка на игру: https://github.com/kiberwitch/game/tree/gh-pages
 
 
 # **Название:** "ХОДИЛКИ БРОДИЛКИ" *(в разработке)*  
