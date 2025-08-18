@@ -33,6 +33,7 @@
   - ["Forest"](https://skfb.ly/69RVV) by rhfqcntrkf (CC BY 4.0)
   - ["Death Forest - UMA"](https://skfb.ly/oGGFF) by RedRomb (CC BY 4.0)
 - Звуковые эффекты из открытых источников
+- Картинки из открытых источников
 
 ## ⚠️ Текущий статус
 Проект в активной разработке. В планах:
