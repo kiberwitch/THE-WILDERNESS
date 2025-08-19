@@ -3,7 +3,7 @@
 3D-хоррор игра с элементами выживания, созданная на Three.js
 
 ## 🎮 Онлайн-демо
-👉 **[Играть сейчас](https://kiberwitch.github.io/game)** 👈  
+👉 **[Играть сейчас](https://kiberwitch.github.io/WALKERS-STROLLERS)** 👈  
 *(Для лучшего опыта используйте Chrome/Firefox и полноэкранный режим)*
 
 ## 📝 Описание игры
