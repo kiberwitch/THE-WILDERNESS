@@ -25,6 +25,12 @@ This is a survival game where your only goal is to **last as long as possible** 
 
 [![PLAY - IF YOU DARE](https://img.shields.io/badge/PLAY_-_IF_YOU_DARE-black.svg?style=for-the-badge&logo=skull&logoColor=red&color=black)](https://kiberwitch.github.io/THE-WILDERNESS)
 
+*   **Map:** "Forest" (https://skfb.ly/69RVV) by rhfqcntrkf (CC BY 4.0)
+*   **Monster:** "Монстр" (https://skfb.ly/oGGFF) by RedRomb (CC BY 4.0)
+*   **Shotgun:** "FPS Arms remington (shotgun)" (https://skfb.ly/6XZyz) by Cransh (CC BY 4.0)
+*   **Font:** "Help Me" by GGBot (SIL Open Font License, Version 1.1)
+
+----
 
 
 ### The Wilderness: Цель — Выживание против времени
