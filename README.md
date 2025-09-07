@@ -32,15 +32,7 @@ This is a survival game where your only goal is to **last as long as possible** 
 
 ----
 
-
-
-
-
-
-
-
-
-
+threejs webgl webgl2 webgl-game 3d-game 3d-web javascript-game html5-game first-person-shooter fps-game web-game webxr horror-game survival-game survival-horror horror scary-game jumpscare monster-horror thriller-game psychological-horror survival time-attack score-attack timer-game procedural-horror random-events first-person flashlight-horror monster-ai threejs-example webgl-demo 3d-graphics interactive-web web-experience browser-game free-web-game online-horror-game 
 
 ### The Wilderness: Цель — Выживание против времени
 
@@ -68,3 +60,5 @@ This is a survival game where your only goal is to **last as long as possible** 
 **Короче говоря: Бегите, прячьтесь, стреляйте и выживайте. Побейте свой рекорд.**
 
 [![PLAY - IF YOU DARE](https://img.shields.io/badge/PLAY_-_IF_YOU_DARE-black.svg?style=for-the-badge&logo=skull&logoColor=red&color=black)](https://kiberwitch.github.io/THE-WILDERNESS)
+
+игра-на-выживание хоррор-игра русская-игра веб-игра threejs-игра хоррор выживание монстр таймер
