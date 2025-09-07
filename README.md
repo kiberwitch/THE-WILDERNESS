@@ -1,3 +1,6 @@
+[![PLAY - IF YOU DARE](https://img.shields.io/badge/PLAY_-_IF_YOU_DARE-black.svg?style=for-the-badge&logo=skull&logoColor=red&color=black)](https://your-game-link.here)
+
+
 ### The Wilderness: Goal - Survival Against Time
 
 This is a survival game where your only goal is to **last as long as possible** in a horror-filled forest. You are hunted not only by a monster, but also by time.
