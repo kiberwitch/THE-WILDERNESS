@@ -1,6 +1,3 @@
-[![PLAY - IF YOU DARE](https://img.shields.io/badge/PLAY_-_IF_YOU_DARE-black.svg?style=for-the-badge&logo=skull&logoColor=red&color=black)](https://your-game-link.here)
-
-
 ### The Wilderness: Goal - Survival Against Time
 
 This is a survival game where your only goal is to **last as long as possible** in a horror-filled forest. You are hunted not only by a monster, but also by time.
@@ -26,7 +23,7 @@ This is a survival game where your only goal is to **last as long as possible** 
 
 **In short: Run, hide, shoot, and survive. Beat your record.**
 
-
+[![PLAY - IF YOU DARE](https://img.shields.io/badge/PLAY_-_IF_YOU_DARE-black.svg?style=for-the-badge&logo=skull&logoColor=red&color=black)](https://kiberwitch.github.io/THE-WILDERNESS)
 
 
 
@@ -54,3 +51,5 @@ This is a survival game where your only goal is to **last as long as possible** 
 **Ваша стратегия:** Будьте осторожны, управляйте своими патронами, используйте фонарик с умом, прислушивайтесь к звукам и всегда помните, что каждая секунда на счету. Ваша награда — возможность увидеть на экране загрузки новое, большее число — доказательство того, что вы стали лучше и продержались дольше.
 
 **Короче говоря: Бегите, прячьтесь, стреляйте и выживайте. Побейте свой рекорд.**
+
+[![PLAY - IF YOU DARE](https://img.shields.io/badge/PLAY_-_IF_YOU_DARE-black.svg?style=for-the-badge&logo=skull&logoColor=red&color=black)](https://kiberwitch.github.io/THE-WILDERNESS)
